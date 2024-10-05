@@ -8,6 +8,6 @@
 4. **Design Patterns**: Apply creational, structural, and behavioral design patterns.
 5. **Architectural Styles & Patterns**: Choose the right architecture (e.g., layered, event-driven) based on system needs.
 
-<a href="https://www.freecodecamp.org/news/software-design/" target="_blank">Read More</a>
+<a href="https://www.freecodecamp.org/news/software-design/" target="_blank" rel="noopener noreferrer">Read More</a>
 
 
