@@ -10,4 +10,15 @@
 
 <a href="https://www.freecodecamp.org/news/software-design/" target="_blank" rel="noopener noreferrer">Read More</a>
 
+# Clean Code
+
+## "There Will Be Code"
+- Code is essential and won't disappear.
+- Even with evolving technologies, code will still be needed to express detailed requirements.
+- Higher-level languages may grow, but code will remain formal, accurate, and machine-executable.
+- Code represents the precise specifications needed to run programs.
+- The idea that code will vanish is unrealistic because precision and formalization are necessary.
+- Good programmers must know how to distinguish good code from bad code and improve bad code.
+
+
 
