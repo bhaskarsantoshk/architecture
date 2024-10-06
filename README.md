@@ -35,3 +35,13 @@
 - New hires struggle to understand the tangled design and inadvertently make the mess worse.
 - As productivity decreases, adding more staff under pressure only compounds the problem.
 - The team’s productivity approaches zero as the codebase becomes unmanageable.
+
+## "The Grand Redesign in the Sky"
+
+- Teams often demand a redesign when code becomes unmanageable.
+- Management reluctantly approves, and a "tiger team" is formed for the new project.
+- The new team must replicate and improve the old system while keeping up with ongoing changes.
+- This process can take years, and by the end, the new system may become as messy as the old one.
+- Keeping code clean from the start is crucial to avoid costly redesigns.
+
+
