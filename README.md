@@ -20,5 +20,13 @@
 - The idea that code will vanish is unrealistic because precision and formalization are necessary.
 - Good programmers must know how to distinguish good code from bad code and improve bad code.
 
+# "Bad Code"
+
+- **Bad code** slows down progress and can bring entire products down.
+- Example: A successful app in the 80s failed due to messy code, leading to the company’s collapse.
+- Programmers often rush to meet deadlines and leave bad code, hoping to clean it up later.
+- LeBlanc’s Law: "Later equals never" — meaning we rarely return to fix bad code.
+- The consequences of bad code accumulate over time, leading to unmanageable codebases.
+
 
 
