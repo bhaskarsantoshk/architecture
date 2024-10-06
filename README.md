@@ -44,4 +44,20 @@
 - This process can take years, and by the end, the new system may become as messy as the old one.
 - Keeping code clean from the start is crucial to avoid costly redesigns.
 
+## "Attitude"
+
+- Bad code is often a result of unprofessionalism, not external factors like changing requirements or tight schedules.
+- Developers share responsibility in the planning and execution of projects, including code quality.
+- It is the developer’s duty to defend the code, just as a doctor would prioritize safety in surgery.
+- Managers might push for speed, but professionals must prioritize clean, sustainable code over short-term gains.
+
+
+## "The Primal Conundrum"
+
+- Developers know messy code slows them down but still feel pressured to cut corners to meet deadlines.
+- The belief that rushing and making a mess will save time is false.
+- True professionals understand that keeping code clean is the only way to go fast and meet deadlines.
+- Clean code ensures productivity and prevents delays caused by messy, hard-to-maintain code.
+
+
 
