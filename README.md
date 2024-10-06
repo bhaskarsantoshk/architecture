@@ -28,5 +28,10 @@
 - LeBlanc’s Law: "Later equals never" — meaning we rarely return to fix bad code.
 - The consequences of bad code accumulate over time, leading to unmanageable codebases.
 
+## "The Total Cost of Owning a Mess"
 
-
+- Messy code slows down teams significantly over time, reducing productivity.
+- As code complexity increases, changes break more parts of the system, making simple modifications difficult.
+- New hires struggle to understand the tangled design and inadvertently make the mess worse.
+- As productivity decreases, adding more staff under pressure only compounds the problem.
+- The team’s productivity approaches zero as the codebase becomes unmanageable.
